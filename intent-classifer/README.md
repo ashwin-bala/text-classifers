@@ -5,5 +5,5 @@
 ### How to add content for testing
 Bring your own prompts and add to the test-content.csv to test it further
 
-### How to run python3 
+### How to run classifer program
 python3 intentclassifer.py
