@@ -1,2 +1,1 @@
-# text-classifers
-Text Classifers
+# Text (intent) Classifications using HuggingFace Models
